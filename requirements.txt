@@ -1,0 +1,7 @@
+Game Environment
+pygame
+
+Deep Learning Framework
+torch
+numpy
+matplotlib
